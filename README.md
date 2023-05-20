@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- My Blog1: https://r9.hateblo.jp/
+- My Blog2: https://r9.hatenablog.jp/
+
 <!--
 **rightgo09/rightgo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
